@@ -4,8 +4,7 @@ img {
 }
 
 body {
-    background: url(https://kinozapas.co/templates/shablon/images/bg-top.jpg) top center no-repeat;
-    background-color: black;
+    background:black url(https://kinozapas.co/templates/shablon/images/bg-top.jpg) top center no-repeat;
     text-align: center;
 }
 
