@@ -1,0 +1,91 @@
+img {
+    width: 300px;
+    height: 420px;
+}
+
+body {
+    background: url(https://kinozapas.co/templates/shablon/images/bg-top.jpg) top center no-repeat;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(231, 19, 72);
+    font-size: 100px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    text-decoration: underline;
+    text-shadow: 4px 4px black;
+    color:rgb(43, 151, 153);
+    font-size: 50px;
+}
+
+.menu-link {
+    margin: 0 17px;
+    font-size: 20px;
+}
+
+.hero {
+    color:brown;
+    font-weight: 500;
+}
+
+ol {
+    list-style: upper-latin;
+    font-size: 15px;
+}
+
+.roman {
+    list-style-type: upper-roman;
+}
+
+ul {
+    list-style:disc;
+    font-size: 15px;
+    text-align: left;
+}
+
+#italic {
+    font-style: italic;
+}
+
+div {
+    display: inline-block;
+    width: 350px;
+    /*border-width: 2px;
+    border-style: solid;
+    border-color: black;*/
+    border: 10px solid green;
+    padding: 15px 5px;
+    margin: 10px;
+    border-radius: 100px;
+    background-color:rgb(29, 161, 84);
+}
+
+.site {
+    border-radius: 0px;
+    width: 85%;
+    margin: 0px 100px;
+    padding: 0;
+    background-color: rgb(24, 42, 29);
+    border:10px solid rgb(65, 65, 65);
+}
+
+.button {
+    background-color:rgb(76, 132, 227);
+    border: 5px solid rgb(128, 128, 128);
+    width: 120px;
+}
+
+.topTab {
+    background-color: rgba(221, 34, 68, 0.332);
+    border: 5px solid rgb(128, 128, 128);
+    width: 400px;
+}
+
+p {
+    color:aliceblue;
+}
